@@ -67,7 +67,7 @@ The results of the experiments, including plots of average rewards and optimal a
 
 ## Contact
 
-For any queries, please contact [Your Name] at [Your Email].
+For any queries, please contact [Peter Utomakili: fezphantom@gmail.com] or [Dhiraj Rajkarnikar: dhiraj.rajkarnikar@gmail.com].
 
 ---
 
